@@ -1,0 +1,14 @@
+C:\Users\Nico\source\repos\CoderHouse47870\MyPrimerAPP\Ej1\bin\Debug\net6.0\Ej1.exe
+C:\Users\Nico\source\repos\CoderHouse47870\MyPrimerAPP\Ej1\bin\Debug\net6.0\Ej1.deps.json
+C:\Users\Nico\source\repos\CoderHouse47870\MyPrimerAPP\Ej1\bin\Debug\net6.0\Ej1.runtimeconfig.json
+C:\Users\Nico\source\repos\CoderHouse47870\MyPrimerAPP\Ej1\bin\Debug\net6.0\Ej1.dll
+C:\Users\Nico\source\repos\CoderHouse47870\MyPrimerAPP\Ej1\bin\Debug\net6.0\Ej1.pdb
+C:\Users\Nico\source\repos\CoderHouse47870\MyPrimerAPP\Ej1\obj\Debug\net6.0\Ej1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nico\source\repos\CoderHouse47870\MyPrimerAPP\Ej1\obj\Debug\net6.0\Ej1.AssemblyInfoInputs.cache
+C:\Users\Nico\source\repos\CoderHouse47870\MyPrimerAPP\Ej1\obj\Debug\net6.0\Ej1.AssemblyInfo.cs
+C:\Users\Nico\source\repos\CoderHouse47870\MyPrimerAPP\Ej1\obj\Debug\net6.0\Ej1.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\CoderHouse47870\MyPrimerAPP\Ej1\obj\Debug\net6.0\Ej1.dll
+C:\Users\Nico\source\repos\CoderHouse47870\MyPrimerAPP\Ej1\obj\Debug\net6.0\refint\Ej1.dll
+C:\Users\Nico\source\repos\CoderHouse47870\MyPrimerAPP\Ej1\obj\Debug\net6.0\Ej1.pdb
+C:\Users\Nico\source\repos\CoderHouse47870\MyPrimerAPP\Ej1\obj\Debug\net6.0\Ej1.genruntimeconfig.cache
+C:\Users\Nico\source\repos\CoderHouse47870\MyPrimerAPP\Ej1\obj\Debug\net6.0\ref\Ej1.dll
